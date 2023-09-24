@@ -1,6 +1,6 @@
 👋Hi this is <span class="mark">Ifechukwu Obiezue</span>.
 
-A <span class="mark">Web developer</span> and A
+🤔A <span class="mark">Web developer</span> and A
 <span class="mark">technical writer</span>
 
 💞️ I’m open to collaborate
