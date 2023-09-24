@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @CeedoTech
-- 👀 I’m a Web developer, currently learning Web3 and blockchain development
-- 💞️ I’m looking to collaborate on 08167935171...
+- 👋 Ifechukwu Obiezue is a Website developer and technical writer with a passion for creating captivating user-friendly website and writing various in-depth articles. 
+- 👀 I’m a Web developer and currently learning Web3 and blockchain development
+- 💞️ I’m open to collaborate
 - 📫 How to reach me :WhatsApp...
 
 <!---
